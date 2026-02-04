@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
-import { Button } from './components/Button';
-import { Input } from './components/Input';
+import { Button } from './components/Buttons.jsx';
+import { Input } from './components/Input.jsx';
 
 const API_URL = "http://localhost:3000/api/tasks";
 

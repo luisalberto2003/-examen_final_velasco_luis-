@@ -1,10 +1,1 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-/* Opcional: Estilos base para que el fondo no sea blanco puro */
-body {
-  @apply bg-slate-50 text-slate-900;
-  margin: 0;
-  padding: 0;
-}
+@import "tailwindcss";
